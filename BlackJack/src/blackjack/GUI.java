@@ -32,7 +32,7 @@ import javax.swing.JTextField;
  */
 public class GUI extends JFrame implements MouseMotionListener {
     ArrayList <PlayingCard> Cards=new ArrayList<PlayingCard>();
-    String DirectoryPath="C:\\Users\\lenovo\\Documents\\NetBeansProjects\\AymanTarneeb\\Cards";
+    String DirectoryPath="C:\\Users\\lenovo\\Documents\\NetBeansProjects\\BlackJack\\Cards";
     JLabel XCor=new JLabel("XCor");
     JLabel YCor=new JLabel("YCor");
     ArrayList <PlayingCard> player1 =new ArrayList<PlayingCard>();
